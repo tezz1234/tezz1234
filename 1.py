@@ -7,3 +7,4 @@ elif a<20:
     print("a is small")
 else:
     print("a is equal to 20")
+    print("end of the prgm")
