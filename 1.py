@@ -9,4 +9,4 @@ else:
     print("a is equal to 20")
     print("end of the prgm")
     print("love today is a good movie")
-
+    print("entra nee gola")
