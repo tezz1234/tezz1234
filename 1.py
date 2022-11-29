@@ -8,3 +8,4 @@ elif a<20:
 else:
     print("a is equal to 20")
     print("end of the prgm")
+    print("entra nee gola")
