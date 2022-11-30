@@ -1,6 +1,6 @@
 a=int(input())
 b=200
-c=10
+c=10+4000
 if a>20:
     print("a is large")
 elif a<20:
